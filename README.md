@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Chukwuemeka
 
-<!--
-**chukwuemeka718/chukwuemeka718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building scalable systems | ☁️ DevOps & Cloud Enthusiast | 💻 Software Developer
 
-Here are some ideas to get you started:
+I turn ideas into real-world applications and automate how they run.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+
+* Build and deploy web applications
+* Explore cloud technologies (AWS)
+* Learn and implement DevOps practices
+* Continuously improve through hands-on projects
