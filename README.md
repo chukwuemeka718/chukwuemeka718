@@ -77,16 +77,16 @@ I enjoy learning by doing — building projects, breaking things, and improving 
 
 ## Connect with me 🌐
 
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/chukwuemeka-ezeogu-130451348/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
 
-<a href="https://github.com/your-username">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+<a href="https://x.com/TheDevEmeka">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
 </a>
 
-<a href="https://twitter.com/your-handle">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+<a href="https://github.com/chukwuemeka718">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
 </a>
 
 ---
