@@ -75,11 +75,19 @@ I enjoy learning by doing — building projects, breaking things, and improving 
 
 ---
 
-## 📫 Connect With Me
+## Connect with me 🌐
 
-* 📧 Email: [edanielezeogu@gmail.com](mailto:edanielezeogu@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/chukwuemeka-ezeogu-130451348/
-* 💻 GitHub: https://github.com/chukwuemeka718
+<a href="https://www.linkedin.com/in/your-profile">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
+
+<a href="https://github.com/your-username">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+</a>
+
+<a href="https://twitter.com/your-handle">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+</a>
 
 ---
 
