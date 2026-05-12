@@ -89,7 +89,6 @@ I enjoy learning by doing — building projects, breaking things, and improving 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
 </a>
 
----
 
 ## ⚡ Fun Fact
 
